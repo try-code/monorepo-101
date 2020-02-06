@@ -1,0 +1,12 @@
+{
+  "name": "@monorepo/b-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@monorepo/util-package": "1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
